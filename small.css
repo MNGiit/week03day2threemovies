@@ -12,11 +12,20 @@
     border: solid purple;
 }
 
+.logoDropDown:hover .synopsis {
+    display: block;
+}
+
+.synopsis {
+    display: none;
+    position: absolute;
+    font-size: 12px;
+    color: whitesmoke;
+    font-style: bold;
+}
+
 .spiderImg {
     border: solid pink;
-
-    
-    
 }
 
 .equilibrium {
