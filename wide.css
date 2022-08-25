@@ -19,7 +19,7 @@
 
 .goodBad {
     display: flex;
-
+    align-items: center;
     border: solid gray;
     height: 94vh;
     width: 100%;
