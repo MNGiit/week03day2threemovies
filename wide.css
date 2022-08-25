@@ -3,7 +3,7 @@
 .movie {
     border: solid red;
     display: flex;
-    height: 90vh;
+    height: 94vh;
 }
 
 .title {
@@ -24,6 +24,7 @@
 
 .goodBad {
     border: solid gray;
+    height: 94vh;
     width: 100%;
     background-color: darkgoldenrod;
 }

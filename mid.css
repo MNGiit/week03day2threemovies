@@ -2,7 +2,7 @@
 
 .movie {
     display: flex;
-    height: 90vh;
+    height: 94vh;
 }
 
 .title {
@@ -19,6 +19,7 @@
 
 .equilibrium {
     display: flex;
+    height: 94vh;
     /* height: fit-content; */
     /* width: fit-content; */
 }
