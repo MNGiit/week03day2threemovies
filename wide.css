@@ -27,4 +27,9 @@
     height: 94vh;
     width: 100%;
     background-color: darkgoldenrod;
+    justify-content: center;
+}
+
+.goodBadImg {
+    height: 94vh;
 }

@@ -24,6 +24,10 @@
     /* width: fit-content; */
 }
 
+.equilibriumImg {
+    height: 94vh;
+}
+
 .goodBad {
     display: none;
 }
