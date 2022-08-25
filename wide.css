@@ -1,9 +1,10 @@
-.title {
-    height: 5%;
-}
 .logo {
     border: solid purple;
     height: 10%;
+}
+
+.synopsis {
+    display: none;
 }
 
 .spider-man {
@@ -21,11 +22,15 @@
     display: flex;
     align-items: center;
     border: solid gray;
-    height: 94vh;
+    height: 98vh;
     width: 100%;
     background-color: darkgoldenrod;
 }
 
 .goodBadImg {
     height: 94vh;
+}
+
+.trailer {
+    display: none;
 }
