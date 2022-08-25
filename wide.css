@@ -1,6 +1,9 @@
 .title {
-    border: solid blue;
-    height: 50vh;
+    height: 5%;
+}
+.logo {
+    border: solid purple;
+    height: 10%;
 }
 
 .spider-man {
@@ -15,6 +18,8 @@
 }
 
 .goodBad {
+    display: flex;
+
     border: solid gray;
     height: 94vh;
     width: 100%;

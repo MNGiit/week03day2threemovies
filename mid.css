@@ -1,6 +1,8 @@
-.title {
-    border: solid blue;
-    height: 50vh;
+.logo {
+    height: 10vh;
+    width: 100%;
+    border: solid purple;
+    background-image: url('https://occ-0-395-2568.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABQbRqT-WKY-7rwy3NJWgEmJBrc4uLXSmJmGWBQBsbHObn-F34UKc_e94Enh0c579CkN5b0jZraNh3tOivW8TXC0ld8ZtUPjy_zSt6lTNtkeZ.png?r=581')
 }
 
 .spider-man {
@@ -12,6 +14,7 @@
 
 .equilibrium {
     display: flex;
+    flex-direction: column;
     height: 94vh;
     /* height: fit-content; */
     /* width: fit-content; */
