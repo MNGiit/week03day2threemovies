@@ -1,0 +1,20 @@
+.movie {
+    display: flex;
+    height: 90vh;
+}
+
+.spider-man {
+    display: block;
+    height: 90vh;
+    width: 100%;
+    border: solid blue;
+    background-image: url('https://s7d2.scene7.com/is/image/TWCNews/skyline_5_pkg_353770191103408541023png');
+}
+
+.equilibrium {
+    display: none;
+}
+
+.goodBad {
+    display: none;
+}
