@@ -15,3 +15,12 @@ const goToTop = () => {
 }
 
 window.onscroll = function() {toggleScrollUpBtn};
+
+// const resizeToThird = () => {
+//     window.resizeTo(1200, 900);
+// }
+
+const goToImg = () => {
+   const e = document.getElementById("dance");
+   e.scrollIntoView();
+}

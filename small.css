@@ -38,7 +38,7 @@
 
 #scrollTopBtn {
     /* display: none; */
-    position: absolute;
+    /* position: absolute; */
     z-index: 99;
     border: none;
     outline: none;
