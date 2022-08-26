@@ -36,6 +36,12 @@
     display: none;
 }
 
-.bonusImg {
-    
+#scrollTopBtn {
+    /* display: none; */
+    position: absolute;
+    z-index: 99;
+    border: none;
+    outline: none;
+    background-color: black;
+    color: white;
 }
